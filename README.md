@@ -1,6 +1,8 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
+Henry Forsyth, Computer Engineering Student (2024) 
 rhforsythjr@vt.edu
+Farhad Ramatulla, Computer Engineering Student (2028)
+framatulla@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
