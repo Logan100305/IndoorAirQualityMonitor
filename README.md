@@ -49,17 +49,17 @@ The device will measure the following data:
 5. PM
 
 GRAPHICAL USER INTERFACE-
-*The data measure will be displayed on an LCD screen
-*The LCD will have two menus for 24 hour and real time data
-*Touch screen simplfies user interface
+I. The data measure will be displayed on an LCD screeN
+II. LCD will have two menus for 24 hour and real time data
+III. Touch screen simplfies user interface
 
 DEVICE EXTERIOR-
-*The outer shell will be a 3D printed case with enough room for its electronics
+I. The outer shell will be a 3D printed case with enough room for its electronics
 
 ## Design Misc.
 
 PCB-
-*After the final build, the circuit using a breadboard can be converted into a PCB. 
+I. After the final build, the circuit using a breadboard can be converted into a PCB. 
 
 ## Steps for Documenting Your Design Process
 
@@ -107,4 +107,4 @@ https://docs.google.com/document/d/1Hxo4jiD2IYqsxEyUlOJCItqnM8PfLTj5AcEQbL0W9NI/
 
 ## Log
 
-GH LOG #1: 2/2/2025 (Logan Ament)
+LOG #1: 2/2/2025 (Logan Ament)
