@@ -1,10 +1,14 @@
 ## Members
 Logan Ament, Electrical Engineering Student (2028)
+
 PROJECT FOCUS- Hardware
+
 EMAIL- logan100305@vt.edu
 
 Farhad Ramatulla, Computer Engineering Student (2028)
+
 PROJECT FOCUS- Software
+
 EMAIL- framatulla@vt.edu
 
 ## Mentor
