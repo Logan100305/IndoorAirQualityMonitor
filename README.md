@@ -2,6 +2,7 @@
 Logan Ament, Electrical Engineering Student (2028)
 PROJECT FOCUS- Hardware
 EMAIL- logan100305@vt.edu
+
 Farhad Ramatulla, Computer Engineering Student (2028)
 PROJECT FOCUS- Software
 EMAIL- framatulla@vt.edu
@@ -49,17 +50,17 @@ The device will measure the following data:
 5. PM
 
 GRAPHICAL USER INTERFACE-
-I. The data measure will be displayed on an LCD screeN
-II. LCD will have two menus for 24 hour and real time data
-III. Touch screen simplfies user interface
+1. The data measure will be displayed on an LCD screeN
+2. LCD will have two menus for 24 hour and real time data
+3. Touch screen simplfies user interface
 
 DEVICE EXTERIOR-
-I. The outer shell will be a 3D printed case with enough room for its electronics
+1. The outer shell will be a 3D printed case with enough room for its electronics
 
 ## Design Misc.
 
 PCB-
-I. After the final build, the circuit using a breadboard can be converted into a PCB. 
+1. After the final build, the circuit using a breadboard can be converted into a PCB. 
 
 ## Steps for Documenting Your Design Process
 
